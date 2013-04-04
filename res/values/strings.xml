@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android OCR</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">Este app extrai o texto de uma imagem de um extrato bancário.</string>
+    <string name="btnTakePic">Tirar a foto</string>
+    <string name="btnSelectPic">Selecionar a foto</string>
+    <string name="impossible">Não foi possivel detectar sua camera</string>
+    <string name="album_name">CameraOCR</string>
+    <string name="info">info...</string>
+    <string name="ocrimage">ocrimage.jpg</string>
+
+</resources>
